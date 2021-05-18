@@ -6,9 +6,9 @@ Project for Data Structures Class - Implements a sorter which reads from a txt f
 javac ConfusedSorter.java\
 java ConfusedSorter input.txt output.txt
 
-# These where the assignment specifications:
+# Assignment specifications:
 
-The problem: an only slightly confused number and symbol sorter
+The problem: an only slightly confused number and symbol sorter\
 The task your system has to perform is to sort a given list of natural numbers and symbols in descending order. In addition to the usual ordering on natural numbers, we have the following requirements on how the symbols are integrated:
 
 0 < Do < 1\
